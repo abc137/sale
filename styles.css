@@ -1,0 +1,32 @@
+.hidden{
+	display:none
+}
+.form-wrapper_one-click *{
+	font-size:14px;
+}
+.cart-table-wrap .close2{
+	display:block;
+}
+.page-item.disabled{
+	
+}
+.page-item.disabled a{
+	
+
+}
+.page-item.disabled .page-link{
+	
+	background:#000;
+	color:#fff;
+}
+.page-item .page-link{
+	font: 16px/1.3 'Proxima Nova', sans-serif;
+}
+.main-bg-price i{
+	font-size:32px!important;
+}
+
+.discount-box2 p#coupon_email_text_confirm{
+	font-size:12px;
+	margin-top:10px;
+}
